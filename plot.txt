@@ -1,0 +1,116 @@
+**SPOILERS AHEAD**
+
+/*
+Hello. Since my programming career is essentially non-existant, I figured I might as well have fun with this little assignment and decided to try to write the plot of Avengers: Infinity War in code. If you have not watched the movie yet, PLEASE do not read this code. If you have watched the movie, be prepared to read this code and weep either tears of laughter or tears of immense grief as you recall the clusterfuck that was this movie.
+Have fun grading this repository!
+
+Sincerely,
+Sherry Tran
+*/
+
+var thanos = false;
+var InfinityGauntlet = false;
+var sherry = okay;
+
+function beginning() {
+	ironManAlive = true;
+	thorAlive = true;
+	lokiAlive = true;
+	bruceBannerAlive = true;
+	steveRogersAlive = true;
+	buckyBarnesAlive = true;
+	blackWidowAlive = true;
+	drStrangeAlive = true;
+	warMachineAlive = true;
+	spiderManAlive = true;
+	blackPantherAlive = true;
+	visionAlive = true;
+	scarletWitchAlive = true;
+	falconAlive = true;
+	theCollectorAlive = true;
+	starLordAlive = true;
+	gamoraAlive = true;
+	grootAlive = true;
+	draxAlive = true;
+	rocketAlive = true;
+	mantisAlive = true;
+}
+
+if (powerStone == true && spaceStone == true && realityStone == true && soulStone == true && timeStone == true && mindStone == true) {
+	InfinityGauntlet = true;
+}
+
+if (InfinityGauntlet = true) {
+	EVERYONEFUCKINGDIES = true; //sorta, not really, more like half the people in the universe
+}
+
+function firstStone() {
+	thanos = true;
+	powerStone = true; //Thanos already had it
+}
+
+function secondStone() {
+	thor = wrekt;
+	hulk = wrekt;
+	lokiAlive = false;
+	spaceStone = true;
+}
+
+function thirdStone() {
+	theCollectorAlive = false;
+	gamora = kidnapped;
+	realityStone = true;
+}
+
+function Gamora() {
+	var gamora;
+	gamora = where;
+	gamora = who;
+	drax: gamora = WHY;
+}
+
+function fourthStone() {
+	thanos = straightSavage;
+	thanos = BITCHYOUTHOUGHT;
+	gamoraAlive = false;
+	soulStone = true;
+
+}
+
+function fifthStone() {
+	everybodyWasKungFuFighting = true;
+	tonyStark = babybackBITCH;
+	drStrange = WHY;
+	timeStone = true;
+}
+
+function sixthStone() {
+	var WAKANDAFOREVER;
+	vision = THISBITCHEMPTY;
+	THISBITCHEMPTY = YEET;
+}
+
+	function YEET() {
+		visionAlive = false;
+		visionAlive = true;
+		visionAlive = false;
+		mindStone = true;
+	}
+
+function end() {
+	buckyBarnesAlive = false;
+	drStrangeAlive = false;
+	spiderManAlive=  false;
+	blackPantherAlive = false;
+	visionAlive = false;
+	scarletWitchAlive = false;
+	falconAlive = false;
+	mantisAlive = false;
+	draxAlive = false;
+	starLordAlive = false;
+
+	sherry = notOkay;
+
+}
+
+
